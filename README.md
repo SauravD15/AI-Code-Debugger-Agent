@@ -29,7 +29,7 @@ An intelligent AI-powered code debugging assistant designed to analyze, comment,
 ### 1. Clone the Repository
 
 bash
-git clone https://github.com/yourusername/ai-code-debugger.git
+git clone (https://github.com/SauravD15/AI-Code-Debugger-Agent)
 cd ai-code-debugger 
 
 ## 2. npm install
