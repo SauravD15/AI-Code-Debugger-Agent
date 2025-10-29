@@ -89,6 +89,3 @@ yaml
 Copy
 Edit
 
----
-
-Let me know if you want it tailored for a specific tech stack or deployment method.
